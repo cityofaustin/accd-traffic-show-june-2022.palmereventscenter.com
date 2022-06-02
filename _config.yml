@@ -18,10 +18,6 @@ sales_manager:
   name: Faith Ward
   email: Faith.Ward@austintexas.gov
   phone: 5124044210
-catering_manager:
-  name: Dawn Mosley
-  email: dmosely@levyrestaurants.com 
-  phone: 5124044254
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.4
 searchable: true
